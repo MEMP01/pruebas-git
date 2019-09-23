@@ -105,8 +105,12 @@ esto es un texto dividido por guiones bajos
 
 ___
 
-## Saltos de linea
+## Saltos de linea:
+ 
+Esto es un parrafo.
 
+Esto es un parrafo. 
 
+Esto es un parrafo.
 
 
