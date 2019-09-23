@@ -80,5 +80,12 @@ Ejemplo de codigo den __*JSON*__
 |--------|----------|----------|
 |Maxi    |Burgos    |486454    |
 |Tomas   | Tompsosn | 687416745|
- 
+
+## Citas
+
+Esto es un texto referente a una cita que pondremos debajo
+> esto es una cita.
+
+esto es otro texto que n o se relaciona con la cita anterior.
+>esto es otra cita.
 
