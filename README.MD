@@ -41,7 +41,15 @@ formato ~~tachado~~.
 - item 2
 - items 3
 
+## Links
 
+### Con HTML
+
+- <a href="https://www.google.com/webhp?hl=es&ictx=2&sa=X&ved=0ahUKEwjhh4iHhujkAhXvIbkGHUncAn4QPQgH"> Esto en un link HTML </a>
+
+### link con MarkDown
+ 
+- [Esto es un link en Markdown](https://www.google.com/webhp?hl=es&ictx=2&sa=X&ved=0ahUKEwjhh4iHhujkAhXvIbkGHUncAn4QPQgH)
 
 
 soy un readme
