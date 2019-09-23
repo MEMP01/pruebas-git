@@ -74,5 +74,11 @@ Ejemplo de codigo den __*JSON*__
   }
 ]
 ```
+## Tablas
 
+| Nombre | Apellido | Documento|
+|--------|----------|----------|
+|Maxi    |Burgos    |486454    |
+|Tomas   | Tompsosn | 687416745|
+ 
 
